@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PriorityFlow",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PriorityFlow",
+  "start_url": "/",
+  "theme_color": "#4f46e5",
+  "description": "Task management and productivity app",
+  "id": "priorityflow-app"
+}
