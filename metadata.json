@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "A highly polished, interactive, and responsive To-Do List with dark mode, category filtering, search, priorities, deadlines, and import/export capabilities.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
