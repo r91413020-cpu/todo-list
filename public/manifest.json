@@ -8,8 +8,8 @@
   "theme_color": "#0f172a",
   "icons": [
     {
-     "src": "/todo-list.png",
-      "sizes": "500x500",
+      "src": "/todolist.png",
+      "sizes": "192x192",
       "type": "image/png"
     }
   ]
