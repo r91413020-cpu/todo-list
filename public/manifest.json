@@ -1,26 +1,16 @@
 {
-  "name": "PriorityFlow",
-  "short_name": "PriorityFlow",
-  "description": "Task management and productivity app",
-  "id": "priorityflow-app",
+  "name": "Todo List",
+  "short_name": "Todo",
+  "description": "Task management app",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#4f46e5",
-  "scope": "/",
-  "orientation": "any",
-  "dir": "ltr",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
   "icons": [
     {
-      "src": "/icon-192.png",
-      "sizes": "192x192",
+      "src": "/todo-list.png",
+      "sizes": "500x500",
       "type": "image/png"
-    },
-    {
-      "src": "/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
     }
   ]
 }
